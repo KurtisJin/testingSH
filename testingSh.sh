@@ -1,0 +1,6 @@
+#!/bin/bash
+
+n="hello"
+
+echo $n
+
